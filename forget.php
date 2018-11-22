@@ -57,7 +57,7 @@ include 'config.php';
       //----------- IF EMAIL EXIST-------------------------
       if($rows==1){
       $array = $query->fetch_assoc();
-      $UID = $array['email'];
+      $UID = $array['id'];
       $sql = "UPDATE user SET password ='$randstr' WHERE id='$UID'";
   	  $conn->query($sql);
 
