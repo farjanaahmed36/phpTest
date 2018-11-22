@@ -9,7 +9,7 @@ This project can be use to help you build a website where people can post what t
 are selling, or you can use it for a news website, dating website.
 
 Installation
- 1- Upload all phpTest folder in your server
+ 1- Upload all files in your server
  2- import the phptest.sql to your MySql database
  3- Change the settings in the config.php file
  4- Start the website 
