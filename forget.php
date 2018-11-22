@@ -27,7 +27,7 @@ via email to the user.
 
   <h2>GET NEW PASSWORD</h2>
 
-  <form class="form-inline" action="md5.php" method = "POST">
+  <form class="form-inline" action="" method = "POST">
     <div class="form-group">
       <label for="email">Your Email :</label>
       <input type="text" name = "email" id="email" placeholder="Enter your Email" >
