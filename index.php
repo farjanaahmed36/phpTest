@@ -28,8 +28,8 @@ EMAIL : aymeric@zgamesoft.com
   ?>
 
 <div style="padding-left:16px">
-  <h2>Free publish Website</h2>
-  <p>Login and post something here below check some people posts.</p>
+  <h2>Login and post something</h2>
+  <p>Here below check users posts.</p>
 </div>
 
 <table class="table table-striped">
