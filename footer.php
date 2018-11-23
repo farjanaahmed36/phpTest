@@ -9,7 +9,7 @@ on the bottom of all the pages
 ?>
 <div class="footer">
   <p>
-    By AMANI A. SAINT-CLAIR <BR>
+    PHP Test By AMANI A. SAINT-CLAIR <BR>
 Email : aymeric@zgamesoft.com
   </p>
 </div>
