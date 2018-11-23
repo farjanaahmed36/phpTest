@@ -1,7 +1,7 @@
 # phpTest
 Complete PHP website Project with Mysql Database 
 If you have basic knowlegde in Php and Mysql
-if you know how to use these Mysql Queries like Insert, Select, Update and Delete
+if you know how to Insert, Select, Update and Delete data in MySql databse with php
 phpTest will allow you to build a website where user 
 1- can register
 2- post articles with image
